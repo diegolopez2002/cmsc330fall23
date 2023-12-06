@@ -1,6 +1,7 @@
 # Project 8: Rust Spell Checker
 ## Due: Mon 11-Dec, 2023 at 11:59 pm
 ## Points: 100 public
+
 - 40 unit/integration tests, 2pts per test
 - 10 main/binary tests, 2pts per test
 
